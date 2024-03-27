@@ -1,0 +1,7 @@
+[
+    {"id": 1, "title": "Producto 1", "description": "Descripción del producto 1", "price": 100, "thumbnail": "imagen1.jpg", "code": "ABC123", "stock": 10},
+    {"id": 2, "title": "Producto 2", "description": "Descripción del producto 2", "price": 200, "thumbnail": "imagen2.jpg", "code": "DEF456", "stock": 20},
+    {"id": 3, "title": "Producto 3", "description": "Descripción del producto 3", "price": 500, "thumbnail": "imagen3.jpg", "code": "ABC789", "stock": 100},
+    {"id": 4, "title": "Producto 4", "description": "Descripción del producto 4", "price": 800, "thumbnail": "imagen4.jpg", "code": "DEF123", "stock": 204},
+    
+]
